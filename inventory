@@ -1,6 +1,6 @@
 [proxmox]
-10.42.30.50
-10.42.30.114
+# here you fill your IP Address in of your machines
 
 [proxmox:vars]
-ansible_user=root
+# here fill your variables in
+ansible_user=
