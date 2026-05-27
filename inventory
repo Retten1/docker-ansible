@@ -1,0 +1,6 @@
+[proxmox]
+10.42.30.50
+10.42.30.114
+
+[proxmox:vars]
+ansible_user=root
